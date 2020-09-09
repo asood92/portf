@@ -1,0 +1,89 @@
+header > h1 {
+  font-family: 'Crimson Text', serif;
+  font-size: 45px;
+  margin: 0px;
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+
+}
+.navbar a {
+  color: rgb(214, 122, 68);
+  font-size: 30px;
+  font-family: 'Crimson Text', serif;
+  text-decoration: none;
+
+}
+
+.navbar li {
+  padding: 1%;
+}
+
+.resize {
+  display: block;
+  max-width: 35%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+section#about-me h1 {
+  font-weight: bolder;
+  font-size: 30px;
+  text-align: center;
+}
+
+section#skills h2 {
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+}
+
+section#skills ul {
+  font-size: 16px;
+  list-style: square;
+
+}
+
+body  {
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  color: whitesmoke;
+  background-color: black;
+  text-align: center;
+
+}
+.blurb {
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  line-height: 2em;
+  font-weight: lighter;
+}
+footer {
+  font-family: 'Crimson Text', serif;
+  font-weight: bolder;
+}
+
+article {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid #141124;
+  background-color: #141124;
+  width: 25%;
+  height: auto;
+  margin: 0 auto;
+  font-family: 'Crimson Text', serif;
+}
+
+section#socials h3 {
+    font-family: 'Crimson Text', serif;
+    font-size: 25px
+
+}
